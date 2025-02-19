@@ -35,7 +35,7 @@ I am research intern in MSRA, under supervised by Dr. [Rui Wang](https://scholar
               Beijing, China</div>
               Jan. 2024 - present <br>
               Advisor: <a href="https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao">Rui Wang</a><br>
-              Interests: Prompt Learning, Machine Translation
+              Interests: Retrieval Augmented Generation, Multimodal Large Language Models
           </td>
       </tr>
 
