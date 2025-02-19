@@ -27,7 +27,7 @@ I am research intern in MSRA, under supervised by Dr. [Rui Wang](https://scholar
     <tbody>
     <tr>
           <td  style="padding:20px;width:20%;vertical-align:middle">
-              <img width="130" src="ms_logo.png">
+              <img width="130" src="/images/ms_logo.png">
           </td>
           <td style="margin-left:20px;width:80%;vertical-align:middle">
               <div >
