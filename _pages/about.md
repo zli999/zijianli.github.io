@@ -41,3 +41,7 @@ I am research intern in MSRA, under supervised by Dr. [Rui Wang](https://scholar
 
     </tbody>
 </table>
+
+## Selected Publications
+
+- [**NAACL 2025 Main**] Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models [[paper]([https://aclanthology.org/2024.findings-acl.680/](https://arxiv.org/abs/2406.06572))] [[code](https://github.com/zli999/GNN_Ret)]<br>**Zijian Li**\*, Qingyan Guo, Jiawei Shao, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
