@@ -51,3 +51,5 @@ I am research intern in MSRA, under supervised by Dr. [Rui Wang](https://scholar
 - [**IEEE Trans. Mob. Comput. (CCF A)**] Feature Matching Data Synthesis for Federated Non-IID Data [[paper]([https://ieeexplore.ieee.org/document/10433716))] <br>**Zijian Li**\*, Yuchang Sun, Jiawei Shao, Yuyi Mao, Jessie Hui Wang, Jun Zhang<br>
 
 - [**IJCAI 2022 workshop**] ederated learning with GAN-based data synthesis for non-IID clients [[paper]([https://arxiv.org/abs/2206.05507))] <br>**Zijian Li**\*, Jiawei Shao, Yuyi Mao, Jessie Hui Wang, Jun Zhang<br>
+
+- [**IEEE Trans. Mob. Comput. (CCF A)**] Delayed Local-SGD for Distributed Training for Linear Speedup [[paper]([https://ieeexplore.ieee.org/abstract/document/10681663))] <br>XiaoLu Wang, **Zijian Li**\*, Shi Jin, Jun Zhang<br>
