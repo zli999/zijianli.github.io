@@ -14,33 +14,10 @@ I am research intern in MSRA, under supervised by Dr. [Rui Wang](https://scholar
 
 ## Internships
 
-<head>  
-  <style>  
-    table, th, td {  
-      border: 0;  
-    }  
-  </style>  
-</head>
+- (June. 2024 - Present) Research Intern, MicroSoft Research Asia, Beijing, China.
+<br> Advisor: [Rui Wang](https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao)
+<br> Interests: Retrieval Augmented Generation, Multimodal Large Language Models
 
-
-<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-    <tbody>
-    <tr>
-          <td  style="padding:20px;width:20%;vertical-align:middle">
-              <img width="130" src="ms_logo.png">
-          </td>
-          <td style="margin-left:20px;width:80%;vertical-align:middle">
-              <div >
-                  Research Intern, Machine Learning Group, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">MicroSoft Research Asia</a>
-              Beijing, China</div>
-              Jan. 2024 - present <br>
-              Advisor: <a href="https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao">Rui Wang</a><br>
-              Interests: Retrieval Augmented Generation, Multimodal Large Language Models
-          </td>
-      </tr>
-
-    </tbody>
-</table>
 
 ## Selected Publications
 
