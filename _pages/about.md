@@ -48,10 +48,10 @@ I am research intern in MSRA, under supervised by Dr. [Rui Wang](https://scholar
 
 - [**IEEE Trans. Mob. Comput. (CCF A)**] Federated Client-Invariant Representation Learning [[paper]([https://ieeexplore.ieee.org/abstract/document/10472115))] <br>**Zijian Li**, Zehong Lin, Jiawei Shao, Yuyi Mao, Jun Zhang<br>
 
-- [**IEEE Trans. Mob. Comput. (CCF A)**] Feature Matching Data Synthesis for Federated Non-IID Data [[paper]([https://ieeexplore.ieee.org/document/10433716))] <br>**Zijian Li**, Yuchang Sun, Jiawei Shao, Yuyi Mao, Jessie Hui Wang, Jun Zhang<br>
+- [**IEEE Trans. Mob. Comput. (CCF A)**] Feature Matching Data Synthesis for Federated Non-IID Data [[paper]([https://ieeexplore.ieee.org/document/10433716)] <br>**Zijian Li**, Yuchang Sun, Jiawei Shao, Yuyi Mao, Jessie Hui Wang, Jun Zhang<br>
 
-- [**IJCAI 2022 workshop**] ederated learning with GAN-based data synthesis for non-IID clients [[paper]([https://arxiv.org/abs/2206.05507))] <br>**Zijian Li**, Jiawei Shao, Yuyi Mao, Jessie Hui Wang, Jun Zhang<br>
+- [**IJCAI 2022 workshop**] ederated learning with GAN-based data synthesis for non-IID clients [[paper]([https://arxiv.org/abs/2206.05507)] <br>**Zijian Li**, Jiawei Shao, Yuyi Mao, Jessie Hui Wang, Jun Zhang<br>
 
-- [**IEEE Trans. Mob. Comput. (CCF A)**] Delayed Local-SGD for Distributed Training for Linear Speedup [[paper]([https://ieeexplore.ieee.org/abstract/document/10681663))] <br>XiaoLu Wang, **Zijian Li**, Shi Jin, Jun Zhang<br>
+- [**IEEE Trans. Mob. Comput. (CCF A)**] Delayed Local-SGD for Distributed Training for Linear Speedup [[paper]([https://ieeexplore.ieee.org/abstract/document/10681663)] <br>XiaoLu Wang, **Zijian Li**, Shi Jin, Jun Zhang<br>
 
-- A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency [[paper]([https://arxiv.org/abs/2307.10655))] <br>Jiawei Shao, **Zijian Li**\*, Wenqiang Sun\*, Tailin Zhou, Yuchang Sun, Lumin Liu, Zehong Lin, Yuyi Mao, Jun Zhang<br>
+- A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency [[paper]([https://arxiv.org/abs/2307.10655)] <br>Jiawei Shao, **Zijian Li**\*, Wenqiang Sun\*, Tailin Zhou, Yuchang Sun, Lumin Liu, Zehong Lin, Yuyi Mao, Jun Zhang<br>
