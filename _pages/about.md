@@ -14,7 +14,7 @@ I am research intern in MSRA, under supervised by Dr. [Rui Wang](https://scholar
 
 ## Internships
 
-- (June. 2024 - Present) Research Intern, MicroSoft Research Asia, Beijing, China.
+- (Jan. 2024 - Present) Research Intern, MicroSoft Research Asia, Beijing, China.
 <br> Advisor: [Rui Wang](https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao)
 <br> Interests: Retrieval Augmented Generation, Multimodal Large Language Models
 
