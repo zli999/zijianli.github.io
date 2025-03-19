@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, welcome to my website! I am Zijian Li (李子健), a 3rd-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include (multimodal) large language models, retrieval-augmented generation, and federated learning etc. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
 
-I am currently a research intern in MicroSoft Research Asia (MSRA), focusing on visual reasoning, under supervised by Dr. [Rui Wang](https://scholar.google.com.hk/citations?user=h1IrWikAAAAJ&hl=zh-CN). I also work closely with Dr. [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/) and Dr. [Jingjing Fu](https://www.microsoft.com/en-us/research/people/jifu/). If you are interested in my research, do not hesitate to contact me!
+I am currently a research intern in MicroSoft Research Asia (MSRA), focusing on visual reasoning, under advised by Dr. [Rui Wang](https://scholar.google.com.hk/citations?user=h1IrWikAAAAJ&hl=zh-CN). I also work closely with Dr. [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/) and Dr. [Jingjing Fu](https://www.microsoft.com/en-us/research/people/jifu/). If you are interested in my research, do not hesitate to contact me!
 
 
 ## Internships
@@ -31,4 +31,4 @@ I am currently a research intern in MicroSoft Research Asia (MSRA), focusing on 
 
 - [**IEEE Trans. Mob. Comput. (CCF A)**] Delayed Local-SGD for Distributed Training for Linear Speedup [[paper]([https://ieeexplore.ieee.org/abstract/document/10681663)] <br>XiaoLu Wang, **Zijian Li**, Shi Jin, Jun Zhang<br>
 
-- A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency [[paper]([https://arxiv.org/abs/2307.10655)] <br>Jiawei Shao, **Zijian Li**\*, Wenqiang Sun\*, Tailin Zhou, Yuchang Sun, Lumin Liu, Zehong Lin, Yuyi Mao, Jun Zhang<br>
+- A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency [[paper]([https://arxiv.org/abs/2307.10655)] <br>Jiawei Shao\*, **Zijian Li**\*, Wenqiang Sun\*, Tailin Zhou, Yuchang Sun, Lumin Liu, Zehong Lin, Yuyi Mao, Jun Zhang<br>
