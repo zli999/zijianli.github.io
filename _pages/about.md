@@ -20,8 +20,9 @@ I am currently a research intern in MicroSoft Research Asia (MSRA), focusing on 
 
 
 ## Selected Publications
+- [**https://arxiv.org/abs/2503.16260**] Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data [[paper]([https://arxiv.org/abs/2406.06572](https://arxiv.org/abs/2503.16260))] [[code](https://github.com/microsoft/Chain-of-Functions)]<br>**Zijian Li**, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
 
-- [**NAACL 2025 Main**] Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models [[paper]([https://aclanthology.org/2024.findings-acl.680/](https://arxiv.org/abs/2406.06572))] [[code](https://github.com/zli999/GNN_Ret)]<br>**Zijian Li**, Qingyan Guo, Jiawei Shao, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
+- [**NAACL 2025 Main**] Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models [[paper](https://arxiv.org/abs/2406.06572)] [[code](https://github.com/zli999/GNN_Ret)]<br>**Zijian Li**, Qingyan Guo, Jiawei Shao, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
 
 - [**IEEE Trans. Mob. Comput. (CCF A)**] Federated Client-Invariant Representation Learning [[paper]([https://ieeexplore.ieee.org/abstract/document/10472115)] <br>**Zijian Li**, Zehong Lin, Jiawei Shao, Yuyi Mao, Jun Zhang<br>
 
