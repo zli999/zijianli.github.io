@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I am Zijian Li (李子健), a 3rd-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include (multimodal) large language models, retrieval-augmented generation, and federated learning etc. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
+Hi, welcome to my website! I am Zijian Li (李子健), a 3rd-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include (multimodal) large language models, retrieval-augmented generation, and agent training etc. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
 
-I am currently a research intern in MicroSoft Research Asia (MSRA), focusing on visual reasoning, under advised by Dr. [Rui Wang](https://scholar.google.com.hk/citations?user=h1IrWikAAAAJ&hl=zh-CN). I also work closely with Dr. [Lei Song](https://www.microsoft.com/en-us/research/people/lesong/) and Dr. [Jingjing Fu](https://www.microsoft.com/en-us/research/people/jifu/). If you are interested in my research, do not hesitate to contact me!
+I am currently a research intern in Tongyi Lab, focusing on Agent Training, under advised by Dr. [Yong Jiang]([https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en)). If you are interested in my research, do not hesitate to contact me!
 
 
 ## Internships
 
-- (Jan. 2024 - Present) Research Intern, MicroSoft Research Asia, Beijing, China.
+- (July 2025 - Present) Research Intern, Tongyi Lab, Alibaba Group, Hangzhou, China.
+<br> Advisor: [Yong Jiang]([https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en))
+<br> Interests: Agent Training
+
+- (Jan. 2024 - July 2025) Research Intern, MicroSoft Research Asia, Beijing, China.
 <br> Advisor: [Rui Wang](https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao)
 <br> Interests: Retrieval Augmented Generation, Multimodal Large Language Models
 
