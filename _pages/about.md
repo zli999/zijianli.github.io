@@ -9,8 +9,12 @@ redirect_from:
 
 Hi, welcome to my website! I am Zijian Li (李子健), a 3rd-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include (multimodal) large language models, retrieval-augmented generation, and agent training etc. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
 
-I am currently a research intern in Tongyi Lab, focusing on Agent Training, under advised by Dr. [Yong Jiang](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en). If you are interested in my research, do not hesitate to contact me!
+I am currently a research intern in Tongyi Lab, focusing on Agent Training, under advised by Dr. [Yong Jiang](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en). I expect to graduate in 2026 and am actively seeking research positions in industry for **Deep Research** and **Agent Training**. Feel free to reach out to me via email (zijian dot li at connet dot ust dot hk).
 
+News
+======
+- 17/09/2025: We are grad to release our new powerful deep research model: **Tongyi DeepResearch (30B)** ([blob](https://tongyi-agent.github.io/) [github](https://github.com/Alibaba-NLP/DeepResearch) [model](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B)).
+- 17/09/2025: We are grad to release our new work **WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research** ([Hugging Face](https://huggingface.co/papers/2509.13312) [github](https://github.com/Alibaba-NLP/DeepResearch))
 
 ## Internships
 
