@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I am Zijian Li (李子健), a 4th-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include (multimodal) large language models, retrieval-augmented generation, and agent training etc. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
+Hi, welcome to my website! I am Zijian Li (李子健), a 4th-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include Deep Research and agent training. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
 
 I am currently a research intern in Tongyi Lab, focusing on Agent Training, under advised by Dr. [Yong Jiang](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en). I expect to graduate in 2026 and am actively seeking research positions in industry for **Deep Research** and **Agent Training**. Feel free to reach out to me via email (zijian dot li at connet dot ust dot hk).
 
