@@ -35,7 +35,7 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
-                    Research Intern, Tongyi, Alibaba
+                    Research Intern, Tongyi Lab, Alibaba Inc.
                 </div>
                 July 2025 - Present <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en">Yong Jiang</a><br>
