@@ -35,7 +35,7 @@ News
         </tr>
         <tr>
             <td  style="padding:20px;width:40%;vertical-align:middle">
-                <img width="750" src="https://raw.githubusercontent.com/zli999/zijianli.github.io/blob/master/images/ms_logo.png">
+                <img width="750" src="https://raw.githubusercontent.com/zli999/zijianli.github.io/master/images/ms_logo.png">
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
