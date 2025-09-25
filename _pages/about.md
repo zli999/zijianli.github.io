@@ -18,6 +18,49 @@ News
 
 ## Internships
 
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+        <tr>
+            <td  style="padding:20px;width:40%;vertical-align:middle">
+                <img width="750" src="/images/logo_new.png">
+            </td>
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
+                <div >
+                    Research Intern, Kling, Kuaishou
+                </div>
+                July 2025 - Present <br>
+                Advisor: <a href="https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en">Yong Jiang</a><br>
+                Interests: Deep Research, Agent Training
+            </td>
+        </tr>
+        <tr>
+            <td  style="padding:20px;width:40%;vertical-align:middle">
+                <img width="750" src="/images/ms_logo.png">
+            </td>
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
+                <div >
+                    Research Intern, Machine Learning Group, Microsoft Research Asia</div>
+                Jan. 2024 - July 2025 <br>
+                Advisor: <a href="https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao">Rui Wang</a>, <a href="https://scholar.google.com/citations?user=pZBEnY8AAAAJ&hl=en">Jiang Bian</a><br>
+                Interests: RAG, Agent, Chart Understanding
+            </td>
+        </tr>
+        <tr>
+            <td  style="padding:20px;width:40%;vertical-align:middle">
+                <img width="750" src="/images/hkust.png">
+            </td>
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
+                <div >
+                    Ph. D. Candidate, Zhejiang University
+                </div>
+                Sep. 2022 - Present <br>
+                Advisor: <a href="https://scholar.google.com/citations?user=1Is687QAAAAJ&hl=en">Jun Zhang</a><br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 - (July 2025 - Present) Research Intern, Tongyi Lab, Alibaba Group, Hangzhou, China.
 <br> Advisor: [Yong Jiang](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en)
 <br> Interests: Agent Training
