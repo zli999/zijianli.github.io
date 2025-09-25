@@ -51,7 +51,7 @@ News
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
-                    Ph. D. Candidate, Zhejiang University
+                    Ph. D. Candidate, Hong Kong University of Science and Technology
                 </div>
                 Sep. 2022 - Present <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=1Is687QAAAAJ&hl=en">Jun Zhang</a><br>
