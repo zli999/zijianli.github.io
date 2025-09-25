@@ -15,14 +15,14 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
-<li> <b>2025/09</b>: We are grad to release our new powerful deep research model: **Tongyi DeepResearch (30B)** ([blob](https://tongyi-agent.github.io/) [github](https://github.com/Alibaba-NLP/DeepResearch) [model](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B)). </li>
+<a href="https://huggingface.co/papers/2509.13312">[Hugging Face]</a>
 
-<li> <b>2025/09</b>: We are grad to release our new work **WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research** ([Hugging Face](https://huggingface.co/papers/2509.13312) [github](https://github.com/Alibaba-NLP/DeepResearch)) </li>
+<li> <b>2025/09</b>: We are grad to release our new powerful deep research model: Tongyi DeepResearch (30B) <a href="https://tongyi-agent.github.io">[blob]</a> <a href="https://github.com/Alibaba-NLP/DeepResearch">[github]</a> <a href="https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B">[model]</a>. </li>
+
+<li> <b>2025/09</b>: We are grad to release our new work WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research <a href="https://huggingface.co/papers/2509.13312">[Hugging Face]</a> <a href="https://github.com/Alibaba-NLP/DeepResearch">[github]</a> </li>
 
 </ul>
 
-- 17/09/2025: We are grad to release our new powerful deep research model: **Tongyi DeepResearch (30B)** ([blob](https://tongyi-agent.github.io/) [github](https://github.com/Alibaba-NLP/DeepResearch) [model](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B)).
-- 17/09/2025: We are grad to release our new work **WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research** ([Hugging Face](https://huggingface.co/papers/2509.13312) [github](https://github.com/Alibaba-NLP/DeepResearch))
 
 ## Experiments
 
