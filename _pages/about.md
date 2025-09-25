@@ -11,10 +11,15 @@ Hi, welcome to my website! I am Zijian Li (李子健), a 4th-year PhD student at
 
 I am currently a research intern in Tongyi Lab, focusing on Agent Training, under advised by Dr. [Yong Jiang](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en). I expect to graduate in 2026 and am actively seeking research positions in industry for **Deep Research** and **Agent Training**. Feel free to reach out to me via email (zijian dot li at connet dot ust dot hk).
 
-News
-======
-- 17/09/2025: We are grad to release our new powerful deep research model: **Tongyi DeepResearch (30B)** ([blob](https://tongyi-agent.github.io/) [github](https://github.com/Alibaba-NLP/DeepResearch) [model](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B)).
-- 17/09/2025: We are grad to release our new work **WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research** ([Hugging Face](https://huggingface.co/papers/2509.13312) [github](https://github.com/Alibaba-NLP/DeepResearch))
+## <i class="fa fa-fw fa-rss "></i> News ##
+
+<ul style="width: auto; height: 180px; overflow: auto">
+
+<li> <b>2025/09</b>: We are grad to release our new powerful deep research model: **Tongyi DeepResearch (30B)** ([blob](https://tongyi-agent.github.io/) [github](https://github.com/Alibaba-NLP/DeepResearch) [model](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B)). </li>
+
+<li> <b>2025/09</b>: We are grad to release our new work **WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research** ([Hugging Face](https://huggingface.co/papers/2509.13312) [github](https://github.com/Alibaba-NLP/DeepResearch)) </li>
+  
+
 
 ## Experiments
 
