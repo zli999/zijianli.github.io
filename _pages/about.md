@@ -16,7 +16,7 @@ News
 - 17/09/2025: We are grad to release our new powerful deep research model: **Tongyi DeepResearch (30B)** ([blob](https://tongyi-agent.github.io/) [github](https://github.com/Alibaba-NLP/DeepResearch) [model](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B)).
 - 17/09/2025: We are grad to release our new work **WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research** ([Hugging Face](https://huggingface.co/papers/2509.13312) [github](https://github.com/Alibaba-NLP/DeepResearch))
 
-## Internships
+## Experiments
 
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
@@ -60,14 +60,6 @@ News
     </tbody>
 </table>
 
-
-- (July 2025 - Present) Research Intern, Tongyi Lab, Alibaba Group, Hangzhou, China.
-<br> Advisor: [Yong Jiang](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en)
-<br> Interests: Agent Training
-
-- (Jan. 2024 - July 2025) Research Intern, MicroSoft Research Asia, Beijing, China.
-<br> Advisor: [Rui Wang](https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao)
-<br> Interests: Retrieval Augmented Generation, Multimodal Large Language Models
 
 
 ## Selected Publications
