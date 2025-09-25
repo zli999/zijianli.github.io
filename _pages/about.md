@@ -15,8 +15,6 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
-<a href="https://huggingface.co/papers/2509.13312">[Hugging Face]</a>
-
 <li> <b>2025/09</b>: We are grad to release our new powerful deep research model: Tongyi DeepResearch (30B) <a href="https://tongyi-agent.github.io">[blob]</a> <a href="https://github.com/Alibaba-NLP/DeepResearch">[github]</a> <a href="https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B">[model]</a>. </li>
 
 <li> <b>2025/09</b>: We are grad to release our new work WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research <a href="https://huggingface.co/papers/2509.13312">[Hugging Face]</a> <a href="https://github.com/Alibaba-NLP/DeepResearch">[github]</a> </li>
