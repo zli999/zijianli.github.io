@@ -22,7 +22,7 @@ News
     <tbody>
         <tr>
             <td  style="padding:20px;width:40%;vertical-align:middle">
-                <img width="750" src="/images/logo_new.png">
+                <img width="750" src="https://raw.githubusercontent.com/zli999/zijianli.github.io/master/images/logo_new.png">
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
@@ -47,7 +47,7 @@ News
         </tr>
         <tr>
             <td  style="padding:20px;width:40%;vertical-align:middle">
-                <img width="750" src="/images/hkust.png">
+                <img width="750" src="https://raw.githubusercontent.com/zli999/zijianli.github.io/master/images/hkust.png">
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
