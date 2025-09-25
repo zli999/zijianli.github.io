@@ -68,6 +68,8 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
 
 
 ## Selected Publications
+- [**Preprint**] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research [[paper](https://arxiv.org/abs/2509.13312)] [[Code](https://github.com/Alibaba-NLP/DeepResearch)]<br>**Zijian Li**, Xin Guan, Bo Zhang, Shen Huang, Houquan Zhou, Shaopeng Lai, Ming Yan, Yong Jiang, Pengjun Xie, Fei Huang, Jun Zhang, Jingren Zhou<br>
+
 - [**ICCV 2025 Workshop**] Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data [[paper](https://arxiv.org/abs/2503.16260)] [[Code](https://github.com/microsoft/Chain-of-Functions)]<br>**Zijian Li**, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
 
 - [**NAACL 2025 Main**] Graph Neural Network Enhanced Retrieval for Question Answering of Large Language Models [[paper](https://arxiv.org/abs/2406.06572)] [[code](https://github.com/zli999/GNN_Ret)]<br>**Zijian Li**, Qingyan Guo, Jiawei Shao, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
@@ -80,4 +82,4 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
 
 - [**IEEE Trans. Mob. Comput. (CCF A)**] Delayed Local-SGD for Distributed Training for Linear Speedup [[paper]([https://ieeexplore.ieee.org/abstract/document/10681663)] <br>XiaoLu Wang, **Zijian Li**, Shi Jin, Jun Zhang<br>
 
-- A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency [[paper]([https://arxiv.org/abs/2307.10655)] <br>Jiawei Shao\*, **Zijian Li**\*, Wenqiang Sun\*, Tailin Zhou, Yuchang Sun, Lumin Liu, Zehong Lin, Yuyi Mao, Jun Zhang<br>
+- [**Preprint**] A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency [[paper]([https://arxiv.org/abs/2307.10655)] <br>Jiawei Shao\*, **Zijian Li**\*, Wenqiang Sun\*, Tailin Zhou, Yuchang Sun, Lumin Liu, Zehong Lin, Yuyi Mao, Jun Zhang<br>
