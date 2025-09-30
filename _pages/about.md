@@ -23,6 +23,11 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
 
 <li> <b>2025/09</b>: We are grad to release our new work WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research <a href="https://huggingface.co/papers/2509.13312">[Hugging Face]</a> <a href="https://github.com/Alibaba-NLP/DeepResearch">[github]</a> </li>
 
+<li> <b>2025/09</b>: We are grad to release our new work PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images <a href="https://huggingface.co/papers/2509.25185">[Hugging Face]</a> <a href="https://github.com/microsoft/PixelCraft">[github]</a> 
+<span><a class="more-link" href="https://github.com/microsoft/PixelCraft" target="_blank"><img
+    alt="GitHub stars"
+    src="https://img.shields.io/github/stars/microsoft/PixelCraft?style=social" /></a></span><br> </li>
+
 </ul>
 
 ## Experiences
@@ -72,6 +77,8 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
 
 
 ## Selected Publications
+- [**Preprint**] PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images [[paper](https://arxiv.org/abs/2509.25185)] [[Code](https://github.com/microsoft/PixelCraft)]<br>Shuoshuo Zhang\* **Zijian Li**\*, Yizhen Zhang, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Yujiu Yang, Rui Wang<br>
+
 - [**Preprint**] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research [[paper](https://arxiv.org/abs/2509.13312)] [[Code](https://github.com/Alibaba-NLP/DeepResearch)]<br>**Zijian Li**, Xin Guan, Bo Zhang, Shen Huang, Houquan Zhou, Shaopeng Lai, Ming Yan, Yong Jiang, Pengjun Xie, Fei Huang, Jun Zhang, Jingren Zhou<br>
 
 - [**ICCV 2025 Workshop**] Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data [[paper](https://arxiv.org/abs/2503.16260)] [[Code](https://github.com/microsoft/Chain-of-Functions)]<br>**Zijian Li**, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
