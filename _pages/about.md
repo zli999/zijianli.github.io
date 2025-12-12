@@ -15,6 +15,8 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
+<li> <b>2025/12</b>: Our work "SIT-GRAPH: State Integrated Tool Graph For Multi-Turn Agents" releases to Arxiv! <a href="https://www.arxiv.org/pdf/2512.07287">[paper]</a> </li>
+
 <li> <b>2025/10</b>: Our paper Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data is accepted by AACL 2025 Main.
 </li>
 
