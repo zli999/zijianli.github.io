@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, welcome to my website! I am Zijian Li (李子健), a 4th-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include Deep Research and agent training. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
 
-I expect to graduate in 2026 and am actively seeking research positions in industry for **Deep Research** and **Agent Training**. Feel free to reach out to me via email (zijian dot li at connet dot ust dot hk).
+I expect to graduate in 2026 and am actively seeking research positions in industry for **Agent Training** and **Deep Research**. Feel free to reach out to me via email (zijian dot li at connet dot ust dot hk).
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
@@ -52,7 +52,7 @@ I expect to graduate in 2026 and am actively seeking research positions in indus
                 <div >
                     Research Intern, Tongyi Lab, Alibaba Inc.
                 </div>
-                July 2025 - Present <br>
+                July 2025 - Jan 2026 <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en">Yong Jiang</a>, Shen Huang<br>
                 Interests: Deep Research, Agent Training
             </td>
