@@ -9,11 +9,16 @@ redirect_from:
 
 Hi, welcome to my website! I am Zijian Li (李子健), a 4th-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include Deep Research and agent training. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
 
-I am currently a research intern in Tongyi Lab, focusing on Agent Training, under advised by Dr. [Yong Jiang](https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en). I expect to graduate in 2026 and am actively seeking research positions in industry for **Deep Research** and **Agent Training**. Feel free to reach out to me via email (zijian dot li at connet dot ust dot hk).
+I expect to graduate in 2026 and am actively seeking research positions in industry for **Deep Research** and **Agent Training**. Feel free to reach out to me via email (zijian dot li at connet dot ust dot hk).
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 180px; overflow: auto">
+
+<li> <b>2026/1</b>: Three papers are accepted by ICLR 2026!
+</li>
+
+<li> <b>2026/1</b>: Our work "Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning" releases to Arxiv! <a href="https://arxiv.org/pdf/2601.10306">[paper]</a> </li>
 
 <li> <b>2025/12</b>: Our work "SIT-GRAPH: State Integrated Tool Graph For Multi-Turn Agents" releases to Arxiv! <a href="https://www.arxiv.org/pdf/2512.07287">[paper]</a> </li>
 
@@ -48,7 +53,7 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
                     Research Intern, Tongyi Lab, Alibaba Inc.
                 </div>
                 July 2025 - Present <br>
-                Advisor: <a href="https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en">Yong Jiang</a><br>
+                Advisor: <a href="https://scholar.google.com/citations?user=sxXZWQQAAAAJ&hl=en">Yong Jiang</a>, Shen Huang<br>
                 Interests: Deep Research, Agent Training
             </td>
         </tr>
@@ -82,9 +87,9 @@ I am currently a research intern in Tongyi Lab, focusing on Agent Training, unde
 
 
 ## Selected Publications
-- [**Preprint**] PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images [[paper](https://arxiv.org/abs/2509.25185)] [[Code](https://github.com/microsoft/PixelCraft)]<br>Shuoshuo Zhang\* **Zijian Li**\*, Yizhen Zhang, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Yujiu Yang, Rui Wang<br>
+- [**ICLR 2026**] PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on Structured Images [[paper](https://arxiv.org/abs/2509.25185)] [[Code](https://github.com/microsoft/PixelCraft)]<br>Shuoshuo Zhang\* **Zijian Li**\*, Yizhen Zhang, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Yujiu Yang, Rui Wang<br>
 
-- [**Preprint**] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research [[paper](https://arxiv.org/abs/2509.13312)] [[Code](https://github.com/Alibaba-NLP/DeepResearch)]<br>**Zijian Li**, Xin Guan, Bo Zhang, Shen Huang, Houquan Zhou, Shaopeng Lai, Ming Yan, Yong Jiang, Pengjun Xie, Fei Huang, Jun Zhang, Jingren Zhou<br>
+- [**ICLR 2026**] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research [[paper](https://arxiv.org/abs/2509.13312)] [[Code](https://github.com/Alibaba-NLP/DeepResearch)]<br>**Zijian Li**, Xin Guan, Bo Zhang, Shen Huang, Houquan Zhou, Shaopeng Lai, Ming Yan, Yong Jiang, Pengjun Xie, Fei Huang, Jun Zhang, Jingren Zhou<br>
 
 - [**AACL 2025 Main**] Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data [[paper](https://arxiv.org/abs/2503.16260)] [[Code](https://github.com/microsoft/Chain-of-Functions)]<br>**Zijian Li**, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
 
