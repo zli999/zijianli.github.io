@@ -91,7 +91,7 @@ I expect to graduate in 2026 and am actively seeking research positions in indus
 
 - [**ICLR 2026**] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research [[paper](https://arxiv.org/abs/2509.13312)] [[Code](https://github.com/Alibaba-NLP/DeepResearch)]<br>**Zijian Li**, Xin Guan, Bo Zhang, Shen Huang, Houquan Zhou, Shaopeng Lai, Ming Yan, Yong Jiang, Pengjun Xie, Fei Huang, Jun Zhang, Jingren Zhou<br>
 
-- [**ICLR 2026**] Token-level Data Selection for Safe LLM Fine-tuning <br>Yanping Li, Zening Liu, **Zijian Li**, Zehong Liu, Jun Zhang<br>
+- [**ICLR 2026**] Token-level Data Selection for Safe LLM Fine-tuning <br>Yanping Li, Zening Liu, **Zijian Li**, Zehong Lin, Jun Zhang<br>
 
 - [**AACL 2025 Main**] Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data [[paper](https://arxiv.org/abs/2503.16260)] [[Code](https://github.com/microsoft/Chain-of-Functions)]<br>**Zijian Li**, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
 
