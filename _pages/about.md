@@ -15,6 +15,9 @@ I expect to graduate in 2026 and am actively seeking research positions in indus
 
 <ul style="width: auto; height: 180px; overflow: auto">
 
+<li> <b>2026/4</b>: One paper is accepted by ACL 2026 Main!
+</li>
+
 <li> <b>2026/2</b>: One paper is accepted by CVPR 2026!
 </li>
 
