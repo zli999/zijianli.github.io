@@ -7,13 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I am Zijian Li (李子健), a 4th-year PhD student at ECE, HKUST, supervised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/). My current research interests mainly include Deep Research and agent training. Prior to that, I received B.Eng. degree from South China University of technology (SCUT) in 2020 and M.Sc. degree from Hong Kong Polytechnic University (Polyu) from 2022.
+Hi, welcome to my website! I am Zijian Li (李子健). I received my Ph.D. degree from the Department of Electronic and Computer Engineering at HKUST, under the supervision of Prof. [Jun Zhang](https://eejzhang.people.ust.hk/).
 
-I expect to graduate in 2026 and am actively seeking research positions in industry for **Agent Training** and **Deep Research**. Feel free to reach out to me via email (zijian dot li at connet dot ust dot hk).
+I have been fortunate to conduct research internships at MSRA, Tongyi Lab, and Tencent. My current research interests lie in long-horizon data scalability and agentic reinforcement learning.
+
+If you are interested in my research, please feel free to contact me at zijian dot li at connect dot ust dot hk.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
-<ul style="width: auto; height: 180px; overflow: auto">
+<ul style="width: auto; height: 220px; overflow: auto">
+
+<li> <b>2026/4</b>: One paper is accepted by ICML 2026!
+</li>
 
 <li> <b>2026/4</b>: One paper is accepted by ACL 2026 Main!
 </li>
@@ -52,6 +57,18 @@ I expect to graduate in 2026 and am actively seeking research positions in indus
     <tbody>
         <tr>
             <td  style="padding:20px;width:40%;vertical-align:middle">
+                <img width="750" src="https://raw.githubusercontent.com/zli999/zijianli.github.io/master/images/tencent.png">
+            </td>
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
+                <div >
+                    Research Intern, Tencent Inc.
+                </div>
+                Jan. 2026 - July 2026 <br>
+                Interests: Agentic RL
+            </td>
+        </tr>
+        <tr>
+            <td  style="padding:20px;width:40%;vertical-align:middle">
                 <img width="750" src="https://raw.githubusercontent.com/zli999/zijianli.github.io/master/images/logo_new.png">
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
@@ -75,18 +92,6 @@ I expect to graduate in 2026 and am actively seeking research positions in indus
                 Interests: RAG, Agent, Chart Understanding
             </td>
         </tr>
-        <tr>
-            <td  style="padding:20px;width:40%;vertical-align:middle">
-                <img width="750" src="https://raw.githubusercontent.com/zli999/zijianli.github.io/master/images/hkust.png">
-            </td>
-            <td style="margin-left:20px;width:60%;vertical-align:middle">
-                <div >
-                    Ph. D. Candidate, Hong Kong University of Science and Technology
-                </div>
-                Sep. 2022 - Present <br>
-                Advisor: <a href="https://scholar.google.com/citations?user=1Is687QAAAAJ&hl=en">Jun Zhang</a><br>
-            </td>
-        </tr>
     </tbody>
 </table>
 
@@ -97,9 +102,11 @@ I expect to graduate in 2026 and am actively seeking research positions in indus
 
 - [**ICLR 2026**] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research [[paper](https://arxiv.org/abs/2509.13312)] [[Code](https://github.com/Alibaba-NLP/DeepResearch)]<br>**Zijian Li**, Xin Guan, Bo Zhang, Shen Huang, Houquan Zhou, Shaopeng Lai, Ming Yan, Yong Jiang, Pengjun Xie, Fei Huang, Jun Zhang, Jingren Zhou<br>
 
-- [**ICLR 2026**] Token-level Data Selection for Safe LLM Fine-tuning [[paper](https://openreview.net/forum?id=k7ytptAaDN)] <br>Yanping Li, Zening Liu, **Zijian Li**, Zehong Lin, Jun Zhang<br>
+- [**ICLR 2026**] Token-level Data Selection for Safe LLM Fine-tuning [[paper](https://openreview.net/forum?id=k7ytptAaDN)] <br>Yanping Li, Zhening Liu, **Zijian Li**, Zehong Lin, Jun Zhang<br>
 
-- [**CVPR 2026**] RemedyGS: Defend 3D Gaussian Splatting against Computation Cost Attacks [[paper](https://www.arxiv.org/abs/2511.22147)] <br>Yanping Li, Zening Liu, **Zijian Li**, Zehong Lin, Jun Zhang<br>
+- [**ICML 2026**] Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic-Procedural Memory [[paper](https://arxiv.org/abs/2512.07287)] <br>Sijia Li, Yuchen Huang, Zifan Liu, **Zijian Li**, Jingjing fu, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
+
+- [**CVPR 2026**] RemedyGS: Defend 3D Gaussian Splatting against Computation Cost Attacks [[paper](https://www.arxiv.org/abs/2511.22147)] <br>Yanping Li, Zhening Liu, **Zijian Li**, Zehong Lin, Jun Zhang<br>
 
 - [**AACL 2025 Main**] Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data [[paper](https://arxiv.org/abs/2503.16260)] [[Code](https://github.com/microsoft/Chain-of-Functions)]<br>**Zijian Li**, Jingjing Fu, Lei Song, Jiang Bian, Jun Zhang, Rui Wang<br>
 
